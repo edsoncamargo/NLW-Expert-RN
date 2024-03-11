@@ -1,8 +1,8 @@
-# NLW Expert Burguer App
+# NLW Expert Burguer
 
-![NLW Expert Burguer App Logo](./assets/images/icon.png)
+![NLW Expert Burguer Logo](./assets/images/icon.png)
 
-**NLW Expert Burguer App** is a simple go-to burguer. This project was developed as part of a hands-on session during the React Native in Practice event (Rocketseat), leveraging Expo for streamlined cross-platform development.
+**NLW Expert Burguer** is a simple go-to burguer. This project was developed as part of a hands-on session during the React Native in Practice event (Rocketseat), leveraging Expo for streamlined cross-platform development.
 
 ## Credits
 
